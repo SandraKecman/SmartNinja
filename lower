@@ -1,0 +1,2 @@
+a="TODAY IS A BEAUTIFUL DAY"
+  print a.lower ()
